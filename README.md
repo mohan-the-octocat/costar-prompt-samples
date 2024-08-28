@@ -13,7 +13,7 @@ The root cause analysis revealed
 3. Developers mostly required the suggestions in particular format - like a JSON payload, and Copilot response wasn't matching
 
 ## This is where Meta Prompts come in
-<iframe src="https://giphy.com/embed/jKK2Jr6tBeBlr7GtHS/video" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/yevbel-jKK2Jr6tBeBlr7GtHS">via GIPHY</a></p>
+![giphy-downsized](https://github.com/user-attachments/assets/7b2b90f4-213d-4e02-a034-3e9791609857)
 
 ## Sounds interesting tell me more
 - Meta Prompts are a recent Phenomenon (Check References below)
