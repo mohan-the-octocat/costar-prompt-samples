@@ -3,23 +3,25 @@
 ## What are Meta Prompts
 
 ## What are we talking about?
-- Developers gladly use GitHub CoPilot while new developing applications
-- However, they indicate that GitHub Copilot works well for simpler use cases like new code generation, more complex use cases like reverse engineering, or optimizing existing code was still a challenge
+- Developers gladly use GitHub Copilot while new developing applications
+- But they encounter challenges for more complex use cases - reverse engineering, or optimizing code etc
 
 ## Yeah, I've heard about it, how are we solving it? 
-The root cause analysis revealed
-1. Developers weren't providing adequate problem context 
-2. Senior Developers demanded clarity how Copilot was suggesting something, and weren't comfortable with the "black box" nature of Copilot
-3. Developers mostly required the suggestions in particular format - like a JSON payload, and Copilot response wasn't matching
+The root cause analysis revealed Developers
+1. Weren't sure how to provide "adequate" problem context 
+2. Weren't comfortable with the "black box" nature of Copilot and demanded clarity on "the how"
+3. Required the suggestions in particular format - like a JSON payload, and Copilot responses wasn't matching
 
 ## This is where Meta Prompts come in
 ![giphy-downsized](https://github.com/user-attachments/assets/7b2b90f4-213d-4e02-a034-3e9791609857)
 
 ## Sounds interesting tell me more
-- Meta Prompts are a recent Phenomenon (Check References below)
-- They Emphasize Structure and Syntax of the prompt
-- They Use Type Theory for clearer classification of the elements
-- Are more effective in contexts where the emphasis is on the "how" rather than the what?
+Meta Prompts
+- are a recent Phenomenon (Check References below)
+- emphasize Structure and Syntax of the prompt
+- use Type Theory for clearer classification of the prompt elements
+- leverage LLMs ability to parse and understand Structured data (XML, JSON etc) better
+- are more effective when emphasis is on the "how" rather than the "what"?
 
 ## How does this look in real life?!
 
