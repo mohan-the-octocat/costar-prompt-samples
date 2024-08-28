@@ -23,7 +23,9 @@ Meta Prompts
 - leverage LLMs ability to parse and understand Structured data (XML, JSON etc) better
 - are more effective when emphasis is on the "how" rather than the "what"?
 
-## How does this look in real life?!
+## Got it, How does this look in real life?!
+Let's do a quick demo!
+
 
 ## References
 - https://meta-prompting.github.io/
