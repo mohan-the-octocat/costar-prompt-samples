@@ -23,6 +23,11 @@ Meta Prompts
 - leverage LLMs ability to parse and understand Structured data (XML, JSON etc) better
 - are more effective when emphasis is on the "how" rather than the "what"?
 
+## Makes Sense, is there a prescribed format
+- Could be XML or JSON
+- Could follow one of the Prompt crafting frameworks like CO-STAR or TIDD-EC
+  ![image](https://github.com/user-attachments/assets/6b23aa44-7b3d-4b8d-99ba-f5a5869ac187)
+
 ## Got it, How does this look in real life?!
 Let's do a quick demo!
 
